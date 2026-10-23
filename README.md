@@ -5,7 +5,7 @@ Bu proje, BPR201 İnternet Tabanlı Programlama dersimizin 1. haftalık ödevi i
 ## Proje Bilgileri
 * **Proje Adı:** Kitap Kulübü Web Sitesi
 * **Öğrenci:** Aybars Aydeniz
-* **GitHub Repository Linki:** https://github.com/Aybars74/kampus-kulubu
+* **GitHub Repository Linki:** [https://github.com/Aybars74/25015221009_AYBARS_AYDENIZ](https://github.com/Aybars74/25015221009_AYBARS_AYDENIZ)
 
 ## Sayfa Yapısı ve Özellikler
 1. **Ana Sayfa (`index.html`):** Kulübümüzü tanıtan başlıklar, kısa bilgiler ve diğer sayfalara geçiş menüsü yer alıyor.
